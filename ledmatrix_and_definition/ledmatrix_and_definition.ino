@@ -1,5 +1,3 @@
-// (C) Dylan Hu 2016
-
 #define Ach 0 //defines the "A" column for the tlc5940 -->OUTPUT 0
 #define Bch 1 //defines the "B" column for the tlc5940 -->OUTPUT 1
 #define Cch 2 //defines the "C" column for the tlc5940 -->OUTPUT 2

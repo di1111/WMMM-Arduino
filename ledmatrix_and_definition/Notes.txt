@@ -1,0 +1,8 @@
+7.5 seconds per each slide if you want the presentation to be 1 minute.
+15 seconds per each slide if you want the persentation to be 2 minutes.
+37.5 seconds per each slide if you want the presentation to be 5 minutes.
+
+300000 milliseconds in 5 min.
+
+reset() resets all values to 0
+
